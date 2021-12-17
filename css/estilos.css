@@ -1,0 +1,132 @@
+.titulo{
+    background-color: rgba(255, 255, 255, 0.801);
+    text-align: center;
+    
+}
+.titulo h1{
+    color: black;
+  font-weight: normal;
+  font-size: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.menu{
+    text-decoration: none;
+    background-color: rgb(117, 117, 117);
+    text-align: center;
+    font-size: 25px;
+    padding: 1%;
+    margin-left: 0%;
+    
+    
+}
+.menu a:hover{  
+    text-decoration: underline;  
+}
+.menu a{
+    
+    
+    text-decoration: none;
+    padding-left: 60px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: rgb(255, 255, 255);
+    
+}
+.foto1 img{
+    padding-top: 10px;
+    display:block;
+    margin:auto;
+    width: 1300px;
+    
+}
+
+.texto{
+    font-size: 20px;
+    font-family:sans-serif;
+    text-align: justify;
+    padding: 2%;
+    line-height : 30px;
+}
+
+.texto img {
+    margin-left: 1%;
+    margin-right: 1%;
+    border: 5px solid rgb(151, 151, 151);
+}
+.cuadro:hover{
+    font-size: 30px;
+}
+.cuadro{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(83, 83, 83);
+    color: white;
+    width: 250px;
+    padding: 2%;
+    position: absolute;
+    bottom: 53px;
+    right: 25px;
+    font-size: 25px;
+}
+body{
+    margin: 0;
+}
+.texto h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+body .inventos{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    padding-left: 2%;
+}
+.lista{
+    
+    font-size: 20px;
+    font-family:sans-serif;
+    text-align: justify;
+    line-height : 30px;
+}
+.pinventos{
+    padding-left: 2%;
+    padding-right: 2%;
+    font-size: 20px;
+    font-family:sans-serif;
+    text-align: justify;
+    line-height : 30px;
+}
+
+
+.lista a{
+    text-decoration: none;
+    color: black;
+}
+footer{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    padding: 1px;
+}
+.descripcion{
+    font-size: 20px;
+    font-family:sans-serif;
+    text-align: justify;
+    line-height : 30px;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+.tabla table tr td:hover{
+    filter: drop-shadow(0 0 9px rgb(0, 0, 0));
+    
+}
+.f1:hover{
+    border: 5px solid rgb(0, 0, 0);
+}
+.f2:hover{
+    border: 5px solid rgb(0, 0, 0);
+}
+.f3:hover{
+    border: 5px solid rgb(0, 0, 0);
+}
+.fotos:hover{
+    border: 1px solid rgb(0, 0, 0);
+}
